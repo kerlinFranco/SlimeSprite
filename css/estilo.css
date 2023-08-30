@@ -1,0 +1,42 @@
+
+html{
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+   
+}
+header{
+    
+   background-color: #fdd72d;
+   
+   padding-bottom: 20px;
+   margin: 0;
+   
+}
+
+#header-b{
+   width: 100%;
+    text-align: center;
+    
+}
+.menu{
+   text-decoration: none;
+   font-weight: bold;
+   color: rgb(48, 47, 47); 
+   padding: 2px;
+   margin: 2px;
+}
+.Simg{
+    width: 300px;
+}
+#sprites{
+    display: flex;
+}
+.sprite{
+    background-color: #fdd72d;
+    border: 3px solid grey;
+    width: 300px; 
+    padding: 5px;
+    margin: 3px;
+    text-align: center;   
+}
