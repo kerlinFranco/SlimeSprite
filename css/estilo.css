@@ -13,7 +13,9 @@ header{
    margin: 0;
    
 }
-
+h1{
+    text-align: center;
+}
 #header-b{
    width: 100%;
     text-align: center;
